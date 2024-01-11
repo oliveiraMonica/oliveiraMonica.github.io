@@ -100,11 +100,4 @@ Serviços de Nuvem:
 - AWS (Amazon Web Services)
 - Azure (Microsoft Azure)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-bootstrap,,fastapi,flask,jenkins,
-laravel,linux,nextjs,nginx,nodejs,postman,
-regex,selenium,sequelize,tensorflow," />
-  </a>
-</p>
+
