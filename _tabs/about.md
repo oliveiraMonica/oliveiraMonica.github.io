@@ -26,7 +26,6 @@ Currently, my responsibilities encompass:
 
 - FEDERAL UNIVERSITY OF OURO PRETO - UFOP (Computer Engineering - Bachelor)
 
-[CV - Download](/path/to/your/pdf/file.pdf)
 
 <div class="heart-icon">
   <i class="fas fa-heart"></i>
