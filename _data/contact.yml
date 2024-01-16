@@ -3,21 +3,16 @@
 - type: github
   icon: "fab fa-github"
 
-- type: instagram
-  icon: "fab fa-instagram"
-  url: "https://www.instagram.com/oliveirac_monica"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: instagram
-  icon: "fa-brands fa-instagram"
-  url: ""
-
-- type: linkedin
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/oliveira-monicas/"  # Fill with your Linkedin homepage
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 #
