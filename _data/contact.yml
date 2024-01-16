@@ -1,13 +1,10 @@
 #  The contact options.
-- type: linkedin
-  icon: "fa-brands fa-linkedin"
-  url: "https://www.linkedin.com/in/oliveira-monicas/"
 
 - type: github
   icon: "fab fa-github"
 
 - type: instagram
-  icon: "fa-brands fa-instagram"
+  icon: "fab fa-instagram"
   url: "https://www.instagram.com/oliveirac_monica"
 
 - type: email
@@ -18,7 +15,9 @@
   icon: "fa-brands fa-instagram"
   url: ""
 
- # Fill with your Linkedin homepage
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/oliveira-monicas/"  # Fill with your Linkedin homepage
 
 # Uncomment and complete the url below to enable more contact options
 #
