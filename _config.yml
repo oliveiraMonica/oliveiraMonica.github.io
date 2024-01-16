@@ -28,8 +28,8 @@ url: "https://oliveiraMonica.github.io"
 github:
   username: oliveiraMonica # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+  #username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: monica.ufop1@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/oliveiraMonica/home # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/oliveirac_monica
+    - https://www.linkedin.com/in/oliveira-monicas/
 
 google_site_verification: # fill in to your verification string
 
